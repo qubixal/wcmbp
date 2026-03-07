@@ -14,3 +14,5 @@ I wanted to push for a pioneer and revolutionary idea that improves technology, 
 
 I hope to make a high quality video out of this project too!
 <br> **Thank you for reviewing this project.**
+
+note: this repository is placed under CC BY-NC-ND.
